@@ -1,4 +1,15 @@
 #text1 {
     color: #e50404;
     font-size: 60px;
+    text-align: center;
+}
+
+
+.pixelify-sans-text2 {
+  font-family: "Pixelify Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 50;
+  font-style: normal;
+  font-size: 60px;
+  text-align: center;
 }
