@@ -20,3 +20,9 @@ body{
   align-items: center;
   height: 95vh;
 }
+
+.ll{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
